@@ -1,0 +1,4 @@
+# Python cache and local runtime noise
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
