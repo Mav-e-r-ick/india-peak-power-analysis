@@ -1,6 +1,6 @@
 # Can Renewable Energy Solve India's Peak Demand Problem?
 
-## Complete MBA Project - Data-Driven Analysis of India's Power Sector
+## Project - Data-Driven Analysis of India's Power Sector
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-CC--BY--4.0-blue)
@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This is a complete MBA project analyzing India's electricity peak demand problem using 9 Government of India datasets and quantitative models.
+This project analyzing India's electricity peak demand problem using 9 Government of India datasets and quantitative models.
 
 ### Key Finding
 
